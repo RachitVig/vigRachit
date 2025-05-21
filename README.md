@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="C://Users//HP//OneDrive//Desktop//portfolio image.png" alt="Rachit Vig" width="150" style="border-radius:50%;" />
+</p>
+
 # Hi, I'm Rachit Vig 👋
 
-I’m a MERN Stack Developer and AI/ML enthusiast passionate about building scalable, efficient, and innovative web applications and AI models.  
-Open source contributor & lifelong learner.
+I’m a MERN Stack Developer and AI/ML enthusiast passionate about building scalable, efficient, and innovative web applications and AI models.
 
 ---
 
@@ -12,15 +15,15 @@ Open source contributor & lifelong learner.
 ---
 
 ### 🌱 Skills & Technologies
-- **Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express.js  
-- **Databases:** MongoDB, Firebase  
-- **AI/ML:** Python, TensorFlow, Scikit-learn  
-- **Tools:** Git, Docker, Postman, VSCode
+- JavaScript, React, Node.js, MongoDB  
+- Python, TensorFlow, Scikit-learn  
+- Git, Docker
 
 ---
 
 ### 📫 Connect with me  
-[LinkedIn](https://linkedin.com/in/vigrachit) | [Twitter](https://twitter.com/vigRachit) | Email: rachitvig9@gmail.com
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vigRachit)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigrachit)
 
 ---
 
