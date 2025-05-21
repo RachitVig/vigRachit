@@ -7,7 +7,7 @@
   <img src="https://i.postimg.cc/K80tTnCL/portfolio-image.png" width="140" height="140" style="border-radius: 50%;" />
 </p>
 
-<h2 align="center">Hey 👋, I'm Rachit Vig</h2>
+<h2 align="center">Hey 👋, I'm Rachit</h2>
 <p align="center"><b>🚀 MERN Stack Dev | 💡 Coder with Vision</b></p>
 
 <p align="center">
