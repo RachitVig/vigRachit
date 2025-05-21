@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Rachit Vig 👋
 
-<!--
-**vigRachit/vigRachit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a MERN Stack Developer and AI/ML enthusiast passionate about building scalable, efficient, and innovative web applications and AI models.  
+Open source contributor & lifelong learner.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects
+- 🚀 Building **QuoteVerse** — AI-powered quotes web app with ChatGPT integration  
+- 🤖 Exploring self-learning AI models and advanced deep learning techniques
+
+---
+
+### 🌱 Skills & Technologies
+- **Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express.js  
+- **Databases:** MongoDB, Firebase  
+- **AI/ML:** Python, TensorFlow, Scikit-learn  
+- **Tools:** Git, Docker, Postman, VSCode
+
+---
+
+### 📫 Connect with me  
+[LinkedIn](https://linkedin.com/in/vigrachit) | [Twitter](https://twitter.com/vigRachit) | Email: rachitvig9@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+![Rachit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigRachit&show_icons=true&theme=radical)
+
+---
+
+> “Code is poetry; keep it elegant.”
