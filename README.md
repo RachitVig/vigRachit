@@ -1,6 +1,6 @@
 <!-- Background Banner with Profile Pic on Top -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=150&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=150&section=header" style={border-radius:100%}/>
 </p>
 
 <p align="center">
