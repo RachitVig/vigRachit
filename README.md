@@ -2,21 +2,19 @@
 
 # Hi, I'm Rachit Vig 👋
 
-I’m a MERN Stack Developer and AI/ML enthusiast passionate about building scalable, efficient, and innovative web applications and AI models.  
-Open source contributor & lifelong learner.
+I’m a MERN Stack Developer   and Open source contributor & lifelong learner.
 
 ---
 
 ### 🔭 Current Projects
-- 🚀 Building **QuoteVerse** — AI-powered quotes web app with ChatGPT integration  
-- 🤖 Exploring self-learning AI models and advanced deep learning techniques
+- 🚀 Building **QuoteVerse** — AI-powered quotes web app with ChatGPT integration  and Many More
+
 
 ---
 
 ### 🌱 Skills & Technologies
-- JavaScript, React, Node.js, MongoDB  
-- Python, TensorFlow, Scikit-learn  
-- Git, Docker
+- JavaScript, React, Node.js, MongoDB , sql,JDBC,chart.js,socket.io,pl/sql,dsa,c,c++,python,java,javascript
+- Git
 
 ---
 
