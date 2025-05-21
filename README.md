@@ -1,33 +1,46 @@
+<!-- Colored Top Divider -->
+<div style="background: linear-gradient(to right, #1f1c2c, #928dab); height: 6px;"></div>
 
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://i.postimg.cc/K80tTnCL/portfolio-image.png" width="150" height="150" style="border-radius: 50%;" />
+</p>
 
-# Hi, I'm Rachit Vig 👋
+<!-- Name & Tagline -->
+<h2 align="center">Hey 👋, I'm Rachit Vig</h2>
+<p align="center"><b>🚀 MERN Stack Developer | 🤖 AI/ML Explorer | 💡 Creative Coder</b></p>
 
-I’m a MERN Stack Developer   and Open source contributor & lifelong learner.
-
----
-
-### 🔭 Current Projects
-- 🚀 Building **QuoteVerse** — AI-powered quotes web app with ChatGPT integration  and Many More
-
-
----
-
-### 🌱 Skills & Technologies
-- JavaScript, React, Node.js, MongoDB , sql,JDBC,chart.js,socket.io,pl/sql,dsa,c,c++,python,java,javascript
-- Git
-
----
-
-### 📫 Connect with me  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vigRachit)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigrachit)
-
----
-
-### 📊 GitHub Stats
-
-![Rachit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigRachit&show_icons=true&theme=radical)
+<!-- Stylish Social Media Badges -->
+<p align="center">
+  <a href="https://twitter.com/vigRachit" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vigrachit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vigRachit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> “Code is poetry; keep it elegant.”
+### 🧠 About Me
+
+- 🌱 Currently exploring **AI/ML + Full Stack Dev**
+- 💥 Love building real-world apps with **ChatGPT, Razorpay, WebRTC**
+- 🚀 Mission: Create high-impact, next-gen projects to dominate LinkedIn & interviews
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vigRachit&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigRachit&theme=tokyonight" width="400"/>
+</p>
+
+---
+
+<!-- Colored Bottom Divider -->
+<div style="background: linear-gradient(to right, #1f1c2c, #928dab); height: 6px;"></div>
