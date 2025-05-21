@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">Hey 👋, I'm Rachit Vig</h2>
-<p align="center"><b>🚀 MERN Stack Dev | 🤖 AI/ML Learner | 💡 Coder with Vision</b></p>
+<p align="center"><b>🚀 MERN Stack Dev | 💡 Coder with Vision</b></p>
 
 <p align="center">
   <a href="https://twitter.com/vigRachit" target="_blank">
